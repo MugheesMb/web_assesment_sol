@@ -55,9 +55,14 @@
     padding: 2px;
 }
 
+.explore-menu-list-item img:hover {
+    transform: scale(1.09);
+}
+
 @media (max-width:1050px){
     .explore-menu-text{
         max-width: 100%;
         font-size: 14px;
     }
 }
+
